@@ -1,10 +1,13 @@
 # MakeMytrip
 <h1>Technologies used</h1>
-React.js
-Node.js
-Express.js
-MongoDb
-CSS
+<ul>
+  
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDb</li>
+<li>CSS</li>
+  </ul>
 JAVASCRIPT
 <h1>Libraries and Tools used</h1>
 MongoAtlas
